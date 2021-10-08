@@ -1,0 +1,16 @@
+{
+  "name": "t2-project-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.8",
+    "jest": "^27.2.4"
+  }
+}
